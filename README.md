@@ -19,9 +19,9 @@ Clone the repository:
 API -> ConvertCurrency.Api
 API -> CurrencyExternalService.Api
 
-JWT -> Generate token calling Login method
-User: "Admin"
-Pass: "Qwerty123"
+- JWT -> Generate token calling Login method
+- User: "Admin"
+- Pass: "Qwerty123"
 
-User: "User"
-Pass: "Qwerty123"
+- User: "User"
+- Pass: "Qwerty123"
